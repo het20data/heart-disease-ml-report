@@ -53,4 +53,5 @@ descent example referenced in Section 3 of the report.
 
 ## Author
 
-[Your name] — DG4MLEL, 2025/26
+Hetkumar Mukeshbhai Patel (250505210) 
+Module - DG4MLEL Machine Learning for Data Science and AI
