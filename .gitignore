@@ -1,0 +1,6 @@
+outputs/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+heart_disease_uci.csv
