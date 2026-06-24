@@ -13,7 +13,7 @@ model (Model A), a Random Forest model (Model B), and their evaluation/compariso
 ## Dataset
 
 [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
-(also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)).
+
 
 Download `heart_disease_uci.csv` and place it in the project root (same folder as
 `heart_disease_analysis.py`).
